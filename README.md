@@ -6,3 +6,4 @@
 <img width="257" height="54" alt="Captura de pantalla 2026-11-08 010942" src="https://github.com/user-attachments/assets/462ce2b0-63e5-4b78-9247-7ea87e6417ef" />
 <img width="385" height="356" alt="Captura de pantalla 2026-11-08 005649" src="https://github.com/user-attachments/assets/4319de74-1024-4eb0-9a26-a616cf723173" />
 <img width="396" height="200" alt="Captura de pantalla 2026-11-08 005503" src="https://github.com/user-attachments/assets/2b22b474-0aa8-4bdb-b3c8-acaa1896491c" />
+
